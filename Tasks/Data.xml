@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+  <ProviderList>
+    <Provider>
+      <SysInfo></SysInfo>
+      <Capacity>
+        <AvailableCapacity></AvailableCapacity>
+        <ReserveCapacity></ReserveCapacity>
+        <TemplateCapacity></TemplateCapacity>
+      </Capacity>
+      <VMs></VMs>
+    </Provider>
+  </ProviderList>
+</Data>
